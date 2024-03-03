@@ -16,7 +16,7 @@
             <a href="/" class="duration-200 hover:text-yellow-400 cursor pointer">How we help you</a>
             <a href="/" class="duration-200 hover:text-yellow-400 cursor pointer">Ideas</a>
             <a href="/" class="duration-200 hover:text-yellow-400 cursor pointer">Insights</a>
-            <a href="/" class="duration-200 hover:text-yellow-400 cursor pointer">Contact us</a>
+            <a href="/contact-us" class="duration-200 hover:text-yellow-400 cursor pointer">Contact us</a>
         </nav>
     </div>
 </header>
