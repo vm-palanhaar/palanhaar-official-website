@@ -26,8 +26,8 @@
 				<h3>Cybercity, Phase III,</h3>
 				<h3>DLF Qe, Gurugram - 122002</h3>
 				<h3>Haryana, India</h3>
-				<h3>Mail: <a href="mailto:pmrs9673@gmail.com">pmrs9673@gmail.com</a></h3>
-				<h3>Phone: <a href="tel:+917669673769"> +917669673769</a></h3>
+				<h3>Mail: <a href="mailto:pmrs9673@gmail.com">contactus@palanhaar.in</a></h3>
+				<h3>Phone: <a href="tel:+919487859673"> +919487859673</a></h3>
 				<h3>
 					<a href="https://www.mappls.com/r3pnuk" target="_blank">Mappls: Get Directions &#8593;</a>
 				</h3>
