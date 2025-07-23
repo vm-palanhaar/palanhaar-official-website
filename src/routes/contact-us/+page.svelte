@@ -37,20 +37,51 @@
 </main>
 
 <style>
-	h1 {
-		font-size: 30px !important;
-		font-weight: 900 !important;
-		text-decoration-line: underline;
-		margin: 10px;
-		margin-bottom: 50px;
-	}
-	h3 {
-		font-size: 20px !important;
-		margin: 10px;
-	}
-	a {
-		font-size: 20px !important;
-		text-decoration-line: underline;
-		color: blue;
-	}
+    main {
+        background: linear-gradient(90deg, #f9f9f9 0%, #fffbe6 100%);
+        min-height: 80vh;
+    }
+    .grid {
+        box-shadow: 0 4px 16px rgba(44, 62, 80, 0.08);
+        border-radius: 16px;
+        border: 1px solid #f0e6d2;
+        background: rgba(255,255,255,0.8);
+    }
+    h1 {
+        font-size: 2rem !important;
+        font-weight: 900 !important;
+        text-decoration-line: underline;
+        margin: 10px 0 40px 0;
+        color: #2d3e50;
+        letter-spacing: 1px;
+    }
+    h3 {
+        font-size: 1.15rem !important;
+        margin: 8px 0;
+        color: #444;
+        font-weight: 500;
+    }
+    a {
+        font-size: 1.15rem !important;
+        text-decoration-line: underline;
+        color: #2563eb;
+        transition: color 0.2s;
+    }
+    a:hover {
+        color: #fbbf24;
+    }
+    iframe {
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(44,62,80,0.07);
+        border: 1px solid #e0e6ed;
+    }
+    @media (max-width: 768px) {
+        .grid {
+            padding: 1rem;
+        }
+        iframe {
+            width: 100%;
+            height: 300px;
+        }
+    }
 </style>
