@@ -13,7 +13,6 @@
         </button>
         <nav class="hidden md:flex items-center gap-4 lg:gap-6">
             <a href="/" class="duration-200 hover:text-yellow-400 cursor pointer">Our story</a>
-            <a href="/" class="duration-200 hover:text-yellow-400 cursor pointer">How we help you</a>
             <a href="/" class="duration-200 hover:text-yellow-400 cursor pointer">Ideas</a>
             <a href="/" class="duration-200 hover:text-yellow-400 cursor pointer">Insights</a>
             <a href="/contact-us" class="duration-200 hover:text-yellow-400 cursor pointer">Contact us</a>
