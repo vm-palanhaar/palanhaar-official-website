@@ -13,6 +13,7 @@
 		<div class="max-w-5xl w-full py-16 grid md:grid-cols-2 gap-10">
 			<div class="w-full aspect-video">
 				<iframe
+					title="Google Map Location"
 					src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14025.658646254333!2d77.0921116!3d28.4971695!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19b66c8c2f21%3A0xb8120a4412f7ea62!2sWeWork%20Forum!5e0!3m2!1sen!2sin!4v1709483384959!5m2!1sen!2sin"
 					class="w-full h-full rounded-md border"
 					allowfullscreen=""
