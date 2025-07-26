@@ -17,12 +17,6 @@
     <p>
       A comprehensive platform envisioned to unify all Indian Railways services in a single app. Though now concluded, our proposal laid the foundation for CRIS to adopt the idea.
     </p>
-    <div class="links">
-      <a href="#">Proposal</a>
-      <a href="#">Presentation</a>
-      <a href="#">RTI Reply</a>
-      <a href="#">Demo Video</a>
-    </div>
     <span class="status closed">Status: Closed</span>
     <div class="hashtags">#IndianRailways #UnifiedApp #PublicInnovation #TransportTech #GovTech</div>
   </div>
@@ -32,11 +26,6 @@
     <p>
       An initiative to enhance the visibility of verified station vendors without requiring online orders. This initiative, part of the Super App, is now concluded.
     </p>
-    <div class="links">
-      <a href="#">Proposal</a>
-      <a href="#">Presentation</a>
-      <a href="#">Demo Video</a>
-    </div>
     <span class="status closed">Status: Closed</span>
     <div class="hashtags">#iDukaan #VendorSupport #RailwayShops #DigitalInclusion #SmartRailway</div>
   </div>
@@ -46,9 +35,6 @@
     <p>
       A cultural and travel discovery platform built to help users explore India’s diverse beauty and traditions, with verified information, guides, and planning tools.
     </p>
-    <div class="links">
-      <a href="https://goanubhavbharat.com" target="_blank">Website</a>
-    </div>
     <span class="status active">Status: Active</span>
     <div class="hashtags">#GoAnubhavBharat #IncredibleIndia #DigitalTravel #BharatDarshan #LocalExploration</div>
   </div>
@@ -92,21 +78,6 @@
   color: #4b5563;
   line-height: 1.6;
   margin-bottom: 1rem;
-}
-.links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-bottom: 0.8rem;
-}
-.links a {
-  color: #1d4ed8;
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 0.92rem;
-}
-.links a:hover {
-  text-decoration: underline;
 }
 .status {
   display: inline-block;
